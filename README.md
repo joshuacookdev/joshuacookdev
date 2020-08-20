@@ -19,3 +19,5 @@ Fun fact: I play a dozen stringed instruments, have a 5 year old Aussie, and am 
 
 
 ![Joshua's Github Snapshot](https://github-readme-stats.vercel.app/api?username=joshuacookdev&count_private=true&hide=stars&show_icons=true)
+
+<!-- https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme -->
