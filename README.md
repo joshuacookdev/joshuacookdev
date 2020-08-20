@@ -18,4 +18,4 @@ Pronouns/Nouns: he/him/his/"hey you"/Cook - anything but "Josh" (no offense to a
 Fun fact: I play a dozen stringed instruments, have a 5 year old Aussie, and am planning to get married Spring of '21 (COVID willing).
 
 
-![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshuacookdev&show_icons=true&count_private=true)
+![Joshua's Github Snapshot](https://github-readme-stats.vercel.app/api?username=joshuacookdev&count_private=true&hide=stars&show_icons=true)
