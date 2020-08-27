@@ -1,0 +1,3 @@
+[submodule "apis/spotify-readme"]
+	path = apis/spotify-readme
+	url = https://github.com/novatorem/spotify-readme.git
