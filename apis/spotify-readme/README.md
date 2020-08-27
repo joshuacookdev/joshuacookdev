@@ -6,4 +6,4 @@ Aphelion | Perihelion
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 -->
 
-Project made by [Andrew Novac (@novatorem)](https://github.com/novatorem/spotify-readme).
+Project made by [Andrew Novac (@novatoremon GitHub)](https://github.com/novatorem/spotify-readme).
