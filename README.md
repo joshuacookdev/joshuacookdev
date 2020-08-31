@@ -23,7 +23,7 @@ I'm looking to collaborate on any .NET project you might have - like I said earl
 How to reach me: 
 * [Twitter](https://twitter.com/_jdcook3)
 * [FB](https://www.facebook.com/joshua.cook003)
-* ~~[My Website]()~~ Coming back soon-ish
+* [My Website](https://www.joshuacook.dev)
 
 Pronouns/Nouns: he/him/his/"hey you"/Cook - anything but "Josh" (no offense to any Josh's out there - you guys are great)
 
