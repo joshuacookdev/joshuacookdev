@@ -1,33 +1,34 @@
-### Hi, I'm Joshua!
+<h3 align="center"> Hi there! I'm Joshua Cook</h3>
+<p align="center">
+  <a href="https://joshuacook.dev">Website</a> | <a href="https://twitter.com/_jdcook3">Twitter</a>
+</p>
 
-I'm a civil/structural engineer turned software tester and developer - I primarily work in the .NET world, building primarily desktop apps and tools. Happily employed - **no employment solicitations, please.**
+I'm a structural engineer turned software tester and developer. I work in the defense industry, building primarily desktop apps and developer tools. Happily employed @ SAIC - **no employment solicitations, please.**
 
-[<img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350" />](https://open.spotify.com/user/jdcook3)
+[<img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350" align="center"/>](https://open.spotify.com/user/jdcook3)
 
-I'm currently working to fill out my CI/CD skills, as well as (slowly) poking away at a long backlog of personal pet projects. My job utilizes the Atlassian suite, so my work here will ebb and flow - I primarily use GitHub for interacting and training new devs on our contracts, and leading them through personal projects. If *you* would also like some assistance or a code review, please feel free to reach out - I'm always happy to help others get started!
+Ask me about:
+* .NET development (C#/F#),
+* automated testing in .NET,
+* project management (Scrum and Kanban are my jams),
+* working in the defense industry,
+* TypeScript,
+* podcast recommendations,
+* fun recipes
 
-<detail>
-  <summary>Ask me about:</summary>
-  
-  * C# desktop/mobile app development, 
-  * Windows UI Testing, XUnit/NUnit/MSTest, 
-  * Project Management (Scrum and Kanban are my jams), 
-  * my hot takes on what C# and .NET are rolling out, 
-  * podcast recommendations,
-  * even fun recipes (if you don't want to talk shop).
+I'm currently working to improve my CI/CD skills, as well as (slowly) chipping away at the backlog of personal projects I entertain. Along with C#/F#/TS, I like to dabble in Python (and Matlab, when time allows it).
 
-</detail>
+My work utilizes the Atlassian suite, so I may not be super responsive if you try to interact with me here. If you need my attention, my [Twitter](https://twitter.com/_jdcook3) is the best way to reach me.
 
-I'm looking to collaborate on any .NET project you might have - like I said earlier, feel free to reach out with anything. You're unlikely to be working on something that I'm not at least down to give you code reviews, if not work issues for/with you and your project.
+A little more about me:
+* Preferred (pro)nouns: Joshua/he/him/"hey you"/Cook
+* Avid tutorial taker
+* Live for music, both listening and making
+* Married
+* Puppy dad
+* Conservationist
+* Fly fisherman
 
-How to reach me: 
-* [Twitter](https://twitter.com/_jdcook3)
-* [FB](https://www.facebook.com/joshua.cook003)
-* [My Website](https://www.joshuacook.dev)
-
-Pronouns/Nouns: he/him/his/"hey you"/Cook - anything but "Josh" (no offense to any Josh's out there - you guys are great)
-
-Fun fact: I play a dozen stringed instruments, have a 5 year old Aussie, and am planning to get married Spring of '21 (COVID willing).
-
+I'm open to collaborate/participate on any .NET project you might have! I have quite a lot of interest areas, so you're unlikely to be working on something that I'm not at least down to give code reviews/commits to - feel free to reach out with anything!
 
 ![Joshua's Github Snapshot](https://github-readme-stats.vercel.app/api?username=joshuacookdev&count_private=true&hide=stars&show_icons=true)
