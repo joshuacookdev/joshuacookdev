@@ -1,17 +1,17 @@
-<h3 align="center"> Hi there! I'm Joshua Cook</h3>
+<h2 align="center">Hi there! I'm Joshua Cook:wave:</h3>
 <p align="center">
   <a href="https://joshuacook.dev">Website</a> | <a href="https://twitter.com/_jdcook3">Twitter</a>
 </p>
 
 I'm a structural engineer turned software tester and developer. I work in the defense industry, building primarily desktop apps and developer tools. Happily employed @ SAIC - **no employment solicitations, please.**
 
-[<img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350" align="center"/>](https://open.spotify.com/user/jdcook3)
+[<img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350"/>](https://open.spotify.com/user/jdcook3)
 
 Ask me about:
 * .NET development (C#/F#),
 * automated testing in .NET,
 * project management (Scrum and Kanban are my jams),
-* working in the defense industry,
+* working in the space and defense industry,
 * TypeScript,
 * podcast recommendations,
 * fun recipes
