@@ -5,7 +5,28 @@
 
 I'm a structural engineer turned software tester and developer. I work in the defense industry, building primarily desktop apps and developer tools. Happily employed @ SAIC - **no employment solicitations, please.**
 
-[<img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350"/>](https://open.spotify.com/user/jdcook3)
+<div style="display: grid; grid-template-colums:auto auto; grid-template-rows:auto auto">
+  <p style="grid-column-start:1; justify-self:center">
+    <a href="https://open.spotify.com/user/jdcook3">
+      <strong>Currently listening</strong>
+    </a>
+  </p>
+  <p style="grid-column-start:2; justify-self:center">
+    <a href="https://www.goodreads.com/jdcook3">
+      <strong>Currently reading:</strong>
+    </a>
+  </p>
+  <p style="grid-column-start:1;grid-row-start:2; justify-self:center">
+    <a href="">
+      <img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="320"/>
+    </a>
+  </p>
+  <p style="grid-column-start:2;grid-row-start:2; justify-self:center">
+    <img width="320" src="https://goodreads-readme.azurewebsites.net/api/GetCurrentlyReading?code=8xmVKn5CFQsTWMmAmaPm6jQkokrFqalSvpha0u9kSGWak6J96/qFbw=="/>
+  </p>
+</div>
+
+---
 
 <details>
  <summary><strong>Ask me about:</strong></summary>
@@ -17,7 +38,6 @@ I'm a structural engineer turned software tester and developer. I work in the de
   * TypeScript,
   * podcast recommendations,
   * fun recipes
-
 
 </details>
 
@@ -35,13 +55,6 @@ My work utilizes the Atlassian suite, so I may not be super responsive if you tr
   * Puppy dad
   * Conservationist
   * Fly fisherman
-  ---
-  <p align="center">
-    <a href=""><strong>What I'm reading right now:</strong></a>
-  </p>
-  <p align="center">
-    <img width="480" src="https://goodreads-readme.azurewebsites.net/api/GetCurrentlyReading?code=8xmVKn5CFQsTWMmAmaPm6jQkokrFqalSvpha0u9kSGWak6J96/qFbw=="/>
-  </p>
 
 </details>
 
