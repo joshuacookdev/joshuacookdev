@@ -35,7 +35,13 @@ My work utilizes the Atlassian suite, so I may not be super responsive if you tr
   * Puppy dad
   * Conservationist
   * Fly fisherman
-
+  ---
+  <p align="center">
+    <a href=""><strong>What I'm reading right now:</strong></a>
+  </p>
+  <p align="center">
+    <img width="480" src="https://goodreads-readme.azurewebsites.net/api/GetCurrentlyReading?code=8xmVKn5CFQsTWMmAmaPm6jQkokrFqalSvpha0u9kSGWak6J96/qFbw=="/>
+  </p>
 
 </details>
 
