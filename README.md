@@ -5,7 +5,9 @@
 
 I'm a structural engineer turned software tester and developer. I work in the defense industry, building primarily desktop apps and developer tools. Happily employed @ SAIC - **no employment solicitations, please.**
 
-[<img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350"/>](https://open.spotify.com/user/jdcook3)
+<p align="center"><a href="https://open.spotify.com/user/jdcook3"><img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350"/></a></p>
+
+---
 
 <details>
  <summary><strong>Ask me about:</strong></summary>
@@ -35,13 +37,17 @@ My work utilizes the Atlassian suite, so I may not be super responsive if you tr
   * Puppy dad
   * Conservationist
   * Fly fisherman
+  
   ---
+
   <p align="center">
     <a href=""><strong>What I'm reading right now:</strong></a>
   </p>
   <p align="center">
-    <img width="480" src="https://goodreads-readme.azurewebsites.net/api/GetCurrentlyReading?code=8xmVKn5CFQsTWMmAmaPm6jQkokrFqalSvpha0u9kSGWak6J96/qFbw=="/>
+    <img width="480" height="80" src="https://goodreads-readme.azurewebsites.net/api/GetCurrentlyReading?code=8xmVKn5CFQsTWMmAmaPm6jQkokrFqalSvpha0u9kSGWak6J96/qFbw=="/>
   </p>
+
+  ---
 
 </details>
 
