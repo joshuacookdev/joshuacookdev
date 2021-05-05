@@ -3,7 +3,7 @@
   <a href="https://joshuacook.dev">Website</a> | <a href="https://twitter.com/_jdcook3">Twitter</a> | <a href="https://github.com/joshuacookdev-forks">Forks</a>
 </p>
 
-I'm a structural engineer turned software tester and developer. I work in the defense industry, building primarily desktop apps and developer tools. Happily employed @ SAIC - **no employment solicitations, please.**
+I'm a structural engineer turned software engineer. I work in the defense industry, building primarily desktop apps and developer tools. Happily employed @ SAIC - **no employment solicitations, please.**
 
 ---
 
