@@ -3,7 +3,7 @@
   <a href="https://joshuacook.dev">Website</a> | <a href="https://twitter.com/_jdcook3">Twitter</a> | <a href="https://github.com/joshuacookdev-forks">Forks</a>
 </p>
 
-I'm a structural engineer turned software engineer. I work in the defense industry, building primarily desktop apps and developer tools. Happily employed @ DVS, located in Huntsville, AL
+I'm a structural engineer turned software engineer. I work in the defense industry, building primarily desktop/mobile apps and developer tools. Happily employed @ DVS, located in Huntsville, AL
 
 ---
 
@@ -34,7 +34,7 @@ I'm a structural engineer turned software engineer. I work in the defense indust
 
 I'm currently working to improve my CI/CD skills, as well as (slowly) chipping away at the backlog of personal projects I entertain. Along with C#/F#/TS, I like to dabble in Python (and Matlab, when time allows it).
 
-My work utilizes the Atlassian suite, so I may not be super responsive if you try to interact with me here. If you need my attention, my [Twitter](https://twitter.com/_jdcook3) is the best way to reach me.
+My work utilizes ~~the Atlassian suite~~ _Azure DevOps now_, so I may not be super responsive if you try to interact with me here. If you need my attention, my [Twitter](https://twitter.com/_jdcook3) is the best way to reach me online.
 
 <details>
   <summary><strong>A little more about me:</strong></summary>
