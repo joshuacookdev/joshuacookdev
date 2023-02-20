@@ -5,7 +5,7 @@
 
 I'm a structural engineer turned software engineer who is just trying to make the world a better place. I now work in the defense industry, building primarily desktop/mobile apps and developer tools. 
 
-Happily employed @ Integration Innovation, Inc - **no employment solicitations, please.**
+Happily employed @ Integration Innovation, Inc (AKA i3) - **no employment solicitations, please.**
 
 ---
 
