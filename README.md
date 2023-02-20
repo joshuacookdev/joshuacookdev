@@ -3,7 +3,9 @@
   <a href="https://joshuacook.dev">Website</a> | <a href="https://twitter.com/_jdcook3">Twitter</a> | <a href="https://github.com/joshuacookdev-forks">Forks</a>
 </p>
 
-I'm a structural engineer turned software engineer. I work in the defense industry, building primarily desktop/mobile apps and developer tools. Happily employed @ DVS, located in Huntsville, AL
+I'm a structural engineer turned software engineer who is just trying to make the world a better place. I now work in the defense industry, building primarily desktop/mobile apps and developer tools. 
+
+Happily employed @ Integration Innovation, Inc - **no employment solicitations, please.**
 
 ---
 
@@ -24,28 +26,29 @@ I'm a structural engineer turned software engineer. I work in the defense indust
   * .NET application development (C#/F#),
   * automated testing in .NET,
   * project management (Scrum and Kanban are my jams),
-  * working in the space and defense industry,
+  * working in the aerospace and defense industry,
   * TypeScript,
   * podcast recommendations,
-  * fun recipes
+  * fun recipes (I throw down on Mexican, Greek, and Indian cuisine)
 
 
 </details>
 
 I'm currently working to improve my CI/CD skills, as well as (slowly) chipping away at the backlog of personal projects I entertain. Along with C#/F#/TS, I like to dabble in Python (and Matlab, when time allows it).
 
-My work utilizes ~~the Atlassian suite~~ _Azure DevOps now_, so I may not be super responsive if you try to interact with me here. If you need my attention, my [Twitter](https://twitter.com/_jdcook3) is the best way to reach me online.
+My work utilizes non-GitHub resources, so I may not be super responsive if you try to interact with me here. If you need my attention, my [Twitter](https://twitter.com/_jdcook3) is the best way to reach me online (or find me in one of many programming discord servers).
 
 <details>
   <summary><strong>A little more about me:</strong></summary>
   
-  * Preferred (pro)nouns: Joshua/he/him/"hey you"/Cook
-  * Avid tutorial taker
-  * Live for music, both listening and making
+  * Preferred (pro)nouns: he/him/"hey you"
   * Married
-  * Puppy dad
+  * Puppy Dad
+  * Avid tutorial taker
+  * Semi-amateur chef
+  * Live for music, both listening and making
   * Conservationist
-  * Fly fisherman
+  * Wants to make the world a better place
   
   ---
 
