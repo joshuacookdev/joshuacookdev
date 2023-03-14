@@ -9,17 +9,6 @@ Happily employed @ Integration Innovation, Inc (AKA i3) - **no employment solici
 
 ---
 
-<p align="center">
-  <a href="https://open.spotify.com/user/jdcook3">
-    <strong>Currently listening:</strong>
-  </a>
-</p>
-<p align="center">
-  <img src="https://spotify-readme-joshuacookdev.vercel.app/api/spotify-playing" alt="What I'm listening to on Spotify today" width="350"/>
-</p>
-
----
-
 <details>
  <summary><strong>Ask me about:</strong></summary>
   
@@ -50,17 +39,6 @@ My work utilizes non-GitHub resources, so I may not be super responsive if you t
   * Conservationist
   * Wants to make the world a better place
   
-  ---
-
-  <p align="center">
-    <a href="https://www.goodreads.com/jdcook3"><strong>What I'm reading right now:</strong></a>
-  </p>
-  <p align="center">
-    <img width="480" height="80" src="https://goodreads-readme.azurewebsites.net/api/GetCurrentlyReading?code=8xmVKn5CFQsTWMmAmaPm6jQkokrFqalSvpha0u9kSGWak6J96/qFbw=="/>
-  </p>
-
-  ---
-
 </details>
 
 I'm open to collaborate/participate on any .NET project you might have! I have quite a lot of interest areas, so you're unlikely to be working on something that I'm not at least down to give code reviews/commits to - feel free to reach out with anything!
