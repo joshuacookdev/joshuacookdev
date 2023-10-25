@@ -13,26 +13,26 @@ _Very_ happily employed @ Integration Innovation, Inc (AKA i3) - **no employment
  <summary><strong>Ask me about:</strong></summary>
   
   * How we can make the world better together,
-  * Leadership & Management practices (and books - I love reading about this),
-  * Software & Systems Architecture (I love designing systems),
-  * Kotlin development
+  * Leadership & Management practices (and books on the ),
+  * Software Architecture (I love solving problems),
   * .NET development - desktop, mobile, _testing_,
+  * Kotlin development
   * agile project management (Scrum and Kanban are my jams),
   * working in the aerospace and defense industry,
-  * New tech/software! (I now run with Apple hardware but I am a Windows power user)
+  * New tech/software! (Windows power user who recently swapped to Apple hardware)
   * podcast recommendations,
-  * fun recipes (I throw down on Mexican, Greek, and Indian cuisine)
+  * fun recipes (I throw _down_ on Mexican, Greek, and Indian cuisine)
 
 </details>
 
-I'm currently transitioning to Android/Kotlin development for work, so my new projects are largely in that arena. I'm also working to (slowly) chip away at the backlog of personal projects I entertain. I have a strong background in C#/F#/TS, and enjoy dabbling in Swift (iOS) & Lua (gaming) when time allows.
+I'm currently working across Android/Kotlin, React/TS, and MAUI/C# for work, so you're likely to see those techs here when I work on OSS. I'm also working to (slowly) chip away at the backlog of personal projects I entertain. I have a strong background in the .NET ecosystem, and enjoy dabbling in Swift (iOS) & Lua (gaming) when time allows.
 
 My work utilizes non-GitHub resources, so I may not be _super_ responsive if you try to interact with me here. If you need my attention, my [Twitter](https://twitter.com/_jdcook3) or [LinkedIn](https://www.linkedin.com/in/jdcook3/) is the best way to reach me online (or find me in one of many programming discord servers).
 
 <details>
   <summary><strong>A little more about me:</strong></summary>
   
-  * Preferred (pro)nouns: he/him/"hey you"
+  * Preferred (pro)nouns: he/him
   * Married
   * Puppy Dad
   * Semi-amateur chef
@@ -45,7 +45,3 @@ My work utilizes non-GitHub resources, so I may not be _super_ responsive if you
 </details>
 
 I'm always open to collaborate/participate on projects - feel free to reach out!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuacookdev&count_private=true&hide=stars&show_icons=true"/>
-</p>
