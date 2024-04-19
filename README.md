@@ -3,9 +3,9 @@
   <a href="https://joshuacook.dev">Website</a> | <a href="https://twitter.com/_jdcook3">Twitter</a> | <a href="https://github.com/joshuacookdev-forks">Forks</a>
 </p>
 
-I'm a structural engineer turned software engineer who is just trying to make the world a better place. I now focus on building software that helps save lives in the defense and public health industries. 
+I'm a structural engineer turned software engineer who is trying to make the world a better place. I now focus on building software for the defense and public health industries. 
 
-_Very_ happily employed @ Integration Innovation, Inc (AKA i3) - **no employment solicitations, please.**
+_Very_ happily employed @ Integration Innovation, Inc (AKA i3).
 
 ---
 
@@ -13,13 +13,13 @@ _Very_ happily employed @ Integration Innovation, Inc (AKA i3) - **no employment
  <summary><strong>Ask me about:</strong></summary>
   
   * How we can make the world better together,
-  * Leadership & Management practices (and books on the ),
-  * Software Architecture (I love solving problems),
+  * Leadership & Management practices (and books on the topic),
+  * Software and Systems Architecture,
   * .NET development - desktop, mobile, _testing_,
   * Kotlin development
   * agile project management (Scrum and Kanban are my jams),
   * working in the aerospace and defense industry,
-  * New tech/software! (Windows power user who recently swapped to Apple hardware)
+  * New tech/software!
   * podcast recommendations,
   * fun recipes (I throw _down_ on Mexican, Greek, and Indian cuisine)
 
