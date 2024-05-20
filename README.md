@@ -5,7 +5,7 @@
 
 I'm a structural engineer turned software engineer who is trying to make the world a better place. I now focus on building software for the defense and public health industries. 
 
-_Very_ happily employed @ Integration Innovation, Inc (AKA i3).
+_Very_ happily employed @ [TactWare](https://tactware.net).
 
 ---
 
