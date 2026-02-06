@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I'm Joshua Cook<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <p align="center">
-  <a href="https://joshuacook.dev">Website</a> | <a href="https://github.com/joshuacookdev-forks">Forks</a>
+  <a href="https://www.linkedin.com/in/jdcook3/">LinkedIn</a> | <a href="https://github.com/joshuacookdev-forks">Forks</a>
 </p>
 
 I'm a structural engineer turned software engineer who is trying to make the world a better place. I now focus on building software for the defense and public health industries. 
